@@ -8,7 +8,7 @@ setup(
     author = 'Takuto Yoshikai',
     author_email = 'takuto.yoshikai@gmail.com',
     description = "phalanx is a password generator with any file",
-    install_requires = ['setuptools', "hashlib"],
+    install_requires = ['setuptools'],
     packages = find_packages(),
     entry_points={
         "console_scripts": [
