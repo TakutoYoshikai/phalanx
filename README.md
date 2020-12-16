@@ -9,7 +9,7 @@ pip3 install git+https://github.com/TakutoYoshikai/phalanx.git
 
 **generate password**
 ```bash
-phalanx <ANY FILE> -p <PASSWORD>
+phalanx <ANY FILE> -p <PASSWORD> -l <PASSWORD LENGTH>
 ```
 
 ### License
