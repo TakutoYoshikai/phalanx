@@ -16,7 +16,7 @@ def main():
     parser = argparse.ArgumentParser(description="phalanx is a password generator with any file")
     parser.add_argument("file")
     parser.add_argument("-p", "--password")
-    parser.add_argument("-l", "--length", default=32)
+    parser.add_argument("-l", "--length", default=44)
     args = parser.parse_args()
     print(generate_password(args.file, args.password, int(args.length)))
 
