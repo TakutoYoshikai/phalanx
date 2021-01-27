@@ -1,5 +1,4 @@
 # phalanx
-<img src="./fog.png" width="200">
 phalanx is a password generator with any file.
 
 ### Usage
