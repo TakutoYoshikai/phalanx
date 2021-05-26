@@ -1,5 +1,5 @@
 # phalanx
-phalanx is a password generator that hasn't to trust any servers. It calculates hash value of master password and image file, and you can use the hash value as a generated password.
+phalanx is a password generator that doesn't have to trust any servers. It calculates hash value of master password and image file, and you can use the hash value as a generated password.
 
 ### Usage
 **install**
